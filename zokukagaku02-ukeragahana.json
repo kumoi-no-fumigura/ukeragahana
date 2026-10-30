@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/ukeragahana",
  "yomi": "うけらがはな",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集（自撰）",
+  "era": "享和元年（1801）9月序",
+  "author": "加藤千蔭（1735〜1808）（自撰）",
+  "desc": "江戸派の歌人加藤千蔭の自撰家集。集名は、京から歌を求められて差し出した折、「うけら」の花を詠んだ歌による。序は巨勢利和。文詞の部はここに収めない。"
+ },
  "editions": [
   {
    "pid": "993380",
